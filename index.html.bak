@@ -19,13 +19,16 @@
   <body class="my-bg">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-md-12"> <img alt="Bootstrap Image Preview" src="images/RESUME.png">
+        <div class="col-md-12"> <img alt="Bootstrap Image Preview" src="images/resume.png">
         </div>
       </div>
       <div class="row my-p">
         <div class="col-md-12"> </div>
         <h1> Profile </h1>
         <p> Name : Nattamon Saiwanna </p>
+        <p>
+          6405101461
+        </p>
         <p> Address : 55 Moo.7, Laksam Subdistrict, Banphaeo District,
           Samutsakhon 74120 </p>
         <p> Tel. : 0909599470 </p>
@@ -93,7 +96,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-12"> <img alt="Bootstrap Image Preview" src="images/THANK%20YOU.png">
+        <div class="col-md-12"> <img alt="Bootstrap Image Preview" src="images/thankyou.png">
         </div>
       </div>
     </div>
